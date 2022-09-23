@@ -43,8 +43,10 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+*css
+*Bootsrap
+*React
+
 
 
 
@@ -55,12 +57,11 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+
 * yarn
   ```sh
   yarn install 
@@ -72,9 +73,12 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/vikashmahato23/thinklinkProject.git
    ```
-2. Install NPM packages
+2. Go to Directory
+   ```sh
+   cd thinklink
+4. Install NPM packages
    ```sh
    yarn install
    ```
@@ -84,7 +88,6 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
 
 
 
@@ -93,9 +96,9 @@ This is an example of how to list things you need to use the software and how to
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@LinkedIn](https://www.linkedin.com/in/vikashmahato/) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/vikashmahato23/thinklinkProject/tree/main/thinklink)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
