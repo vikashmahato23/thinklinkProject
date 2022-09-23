@@ -79,7 +79,8 @@ Use the `BLANK_README.md` to get started.
 2. Go to Directory
    ```sh
    cd thinklink
-4. Install NPM packages
+   ```
+3. Install NPM packages
    ```sh
    yarn install
    ```
@@ -91,6 +92,7 @@ Use the `BLANK_README.md` to get started.
 After the installation
 ```sh
  yarn start
+``` 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
