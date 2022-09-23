@@ -1,0 +1,14 @@
+.dash{
+    position: absolute;
+    top: 56px;
+ 
+    background-color: #FFFFFF;
+    height: auto;
+    width: 1440px;
+  
+ 
+     display: grid;
+     
+   
+     grid-template-columns:20% 80%
+}

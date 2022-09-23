@@ -1,0 +1,52 @@
+.filtercon{
+    display: flex;
+    width: 1122px;
+    height:70px ;
+    /* border: 1px solid black; */
+}
+.filtercon>div{
+    display: flex;
+   flex: 1;
+   /* border: 1px solid red; */
+   justify-content: center;
+   align-items: center;
+  
+}
+.filtercon>div:nth-child(1){
+ justify-content: flex-start;
+}
+.filtercon>div:nth-child(2){
+ justify-content: flex-end;
+}
+.filtercon>div:nth-child(1)>div>p:nth-child(1){
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Dark color */
+
+color: #262730;
+ 
+}
+label{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: right;
+
+/* Subtle Text color */
+
+color: #8C8CA1;
+}
+select{
+    border: none;
+    border-left: 1px solid #8C8CA1;
+}

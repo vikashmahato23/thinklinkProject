@@ -1,0 +1,55 @@
+.chartdata{
+    width: 1122px;
+    height: 450px;
+   
+   display: grid;
+   grid-template-columns: 75% 25%;
+}
+.chartdata>div{
+    background: #FFFFFF;
+
+
+border: 1px solid #FFF2EE;
+}
+h4{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+margin: 10px;
+
+
+color: #8C8CA1;
+}
+.totalpro>h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+   margin-left: 10px;
+    
+    color: #811434;
+}
+.totalpro>h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+
+    
+    margin-left: 10px;
+    
+    color: #262730;
+}
+.grow2{
+    margin-left: 10px;
+    font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #2FCA72;
+}

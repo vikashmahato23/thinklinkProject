@@ -1,0 +1,13 @@
+.chart{
+    width: 1122px;
+    height: 520px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chartcon{
+    width: 1122px;
+    height: 512px;
+
+}

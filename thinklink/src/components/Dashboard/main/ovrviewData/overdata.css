@@ -1,0 +1,70 @@
+.overdata{
+    width: 1122px;
+    height: 100px;
+    /* border: 1px solid black; */
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+  
+
+}
+.overdata>div{
+    width: 258px;
+ height: 88px;
+ display: grid;
+ grid-template-columns: repeat(1, 226px);
+ align-items: center;
+ justify-content: center;
+    /* border: 1px solid red; */
+    /* border: transparent; */
+
+    /* border-top:2px solid green; */
+    /* box-shadow: 0px -2px 0px #2C67FF, 0px 2px 11px rgba(242, 242, 242, 0.5); */
+
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+.open{
+    display: flex;
+    width: 226px;
+    height: 28px;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    justify-content: space-between;
+
+}
+.open>div:nth-child(1){
+  
+    width: 200px;
+   
+}
+.open p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Subtle Text color */
+
+color: #8C8CA1;
+}
+.number{
+    /* border: 1px solid black; */
+    width: auto;
+height: 32px;
+font-weight: 700;
+font-size: 24px;
+}
+.number>p{
+   font-size: 29px; 
+}
+
+
+
+
+
