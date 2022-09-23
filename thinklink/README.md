@@ -17,6 +17,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run">Run</a></li>
       </ul>
     </li>
   </ol>
@@ -86,6 +87,11 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+#Run
+After the installation
+```sh
+ yarn start
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
